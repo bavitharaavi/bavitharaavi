@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bavitharaavi
 - 👀 I’m interested in problem solving and building efficient applications
-- 🌱 I’m currently learning Generative AI
+- 🌱 Data Engineer
 - 📫 raavibavitha28@gmail.com
 - 😄 Pronouns: She/Her
 
